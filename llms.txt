@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Hand-curated, link-checked catalog of 598 Model Context Protocol (MCP) servers in 14 categories. Each entry has a URL, description, category, language, provider, tags, and an official flag. The website, JSON API, and these files are generated from the same data.
+> Hand-curated, link-checked catalog of 599 Model Context Protocol (MCP) servers in 14 categories. Each entry has a URL, description, category, language, provider, tags, and an official flag. The website, JSON API, and these files are generated from the same data.
 
 MCP is an open protocol that lets AI applications connect to external tools and data through a standardized client-server interface. This catalog lists well-scoped, source-available servers for databases, developer tools, browsers, cloud services, and more. Entries are reviewed for a clear purpose, a public source, and recent or official maintenance. Links are checked on every pull request and weekly.
 
@@ -527,6 +527,7 @@ Links under each category point at the upstream project, docs, or registry page.
 - [Budna MCP](https://github.com/budna-marketplace/mcp): Read-only search and inspection of public listings, sellers, bids and ratings on Budna, a Swedish second-hand marketplace; no account or API key. (Rust, official)
 - [Buy-Box](https://buybox.agentconsult.ai): Saves your buying criteria for homes, cars or any category (budget, must-haves, dealbreakers) so AI agents load them before they search and rank listings against them. (Other, official)
 - [BuyWhere MCP](https://github.com/BuyWhere/buywhere-mcp): Hosted product-search MCP server for multi-merchant price comparison across Singapore, SEA, and US catalogs. (TypeScript, official)
+- [canli-mcp](https://github.com/arhancanli/canli-mcp): SEC filings, statements as filed, market data, economic statistics, quant tools and backtest checks from the sources, with 386 tools behind 5 and no API key.
 - [canli-validation-mcp](https://github.com/arhancanli/canli-validation-mcp): Checks whether a backtest result is real or just the luckiest of the variants tried: deflated Sharpe ratio, CSCV overfitting probability, data-snooping tests, lookahead checks and pipeline placebos. (JavaScript, official)
 - [Checkout Page](https://checkoutpage.com/mcp?utm_source=mcphq&utm_medium=listing): Create and manage checkout pages, events, forms, products, coupons, customers, payments and subscriptions on Checkout Page, a checkout platform on Stripe Connect, over remote Streamable HTTP with OAuth. (TypeScript, official)
 - [Chord](https://github.com/getchordlabs/chord): Hosted MCP server with no API key for data: best-route DEX swap quotes and unsigned transactions on 7 EVM chains (Base, Monad, BNB Chain, Arbitrum and more), plus token boards, candles, wallet PnL and smart money. Non-custodial. (TypeScript, official)

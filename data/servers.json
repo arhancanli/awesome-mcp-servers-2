@@ -5361,6 +5361,25 @@
     }
   },
   {
+    "name": "canli-mcp",
+    "url": "https://github.com/arhancanli/canli-mcp",
+    "description": "SEC filings, statements as filed, market data, economic statistics, quant tools and backtest checks from the sources, with 386 tools behind 5 and no API key.",
+    "category": "finance-commerce-and-business-apps",
+    "language": "JavaScript",
+    "provider": "Canli Capital",
+    "tags": [
+      "finance",
+      "sec-filings",
+      "market-data",
+      "quant",
+      "remote"
+    ],
+    "official": true,
+    "endpoints": {
+      "streamableHttp": "https://canlicapital.com/mcp/canli"
+    }
+  },
+  {
     "name": "Speechyou MCP",
     "url": "https://speechyou.com/mcp",
     "description": "Search and read voice notes and meeting transcripts from Claude, with full transcripts, AI summaries, tags, recent notes and audio links through read-only OAuth access.",

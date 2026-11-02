@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 598 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 599 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -5578,6 +5578,18 @@ Hosted product-search MCP server for multi-merchant price comparison across Sing
 - Tags: ecommerce, shopping, search, remote
 - Category: Finance, Commerce, and Business Apps
 - Streamable HTTP endpoint: https://api.buywhere.ai/mcp
+
+### canli-mcp
+
+SEC filings, statements as filed, market data, economic statistics, quant tools and backtest checks from the sources, with 386 tools behind 5 and no API key.
+
+- URL: https://github.com/arhancanli/canli-mcp
+- Language: JavaScript
+- Provider: Canli Capital
+- Official: yes
+- Tags: finance, sec-filings, market-data, quant, remote
+- Category: Finance, Commerce, and Business Apps
+- Streamable HTTP endpoint: https://canlicapital.com/mcp/canli
 
 ### canli-validation-mcp
 
